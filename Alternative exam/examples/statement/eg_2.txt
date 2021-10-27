@@ -1,0 +1,9 @@
+!x + !y + z
+!z + !t + s
+u + t
+u + !s
+!x + !y + u
+!x + y
+x
+y
+!u

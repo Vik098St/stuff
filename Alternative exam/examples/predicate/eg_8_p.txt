@@ -1,0 +1,2 @@
+P(a,f(x,g(c,h(e,k,l),β),y),b)
+!P(a,f(α,g(c,h(e,s,s),d),y),b)
